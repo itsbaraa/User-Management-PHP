@@ -1,12 +1,10 @@
 # PHP User Management System
 
 A Simple PHP-based user management system with the following features:
-
-## Features
-- Add users (Name, Age, Status)
+- Add users
 - Toggle user status (Active/Inactive)
 - View user list in a styled table
-
+- All changes are inflicted directly on the database
 
 ## Requirements
 
